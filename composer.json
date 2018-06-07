@@ -1,0 +1,13 @@
+{
+    "name": "azorgh/twitch-sub",
+    "authors": [
+        {
+            "name": "Azorgh",
+            "email": "azorgh.ow@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
